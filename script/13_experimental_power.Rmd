@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Introduction
 
-Welcome to...
+In this part of the session we are going to look at the issues around covers experimental power (and why it is important). One of the insights revealed by the "replication crisis" is that very often research is underpowered for the effect size of interest (i.e., even if the effect is there, your experiment is unlikely to find it). Even when underpower studies do reveal the effect of interest, the effect size itself will be over-estimated (thus causing problems for future work that might base their power estimates on this incorrect effect size estimate). Much of the issues around experimental power stem from researchers not spending sufficient time considering the this key aspect of their research design. 
 
 &nbsp;&nbsp;
 
