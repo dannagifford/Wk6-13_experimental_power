@@ -15,7 +15,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Introduction
 
-In this part of the session we are going to look at the issues around covers experimental power (and why it is important). One of the insights revealed by the "replication crisis" is that very often research is underpowered for the effect size of interest (i.e., even if the effect is there, your experiment is unlikely to find it). Even when underpower studies do reveal the effect of interest, the effect size itself will be over-estimated (thus causing problems for future work that might base their power estimates on this incorrect effect size estimate). Much of the issues around experimental power stem from researchers not spending sufficient time considering the this key aspect of their research design. 
+In this part of the session we are going to look at the issues around covers experimental power (and why it is important). One of the insights revealed by the "replication crisis" is that very often research is underpowered for the effect size of interest (i.e., even if the effect is there, your experiment is unlikely to find it). Even when underpowered studies do reveal the effect of interest, the effect size itself will be over-estimated (thus causing problems for future work that might base their power estimates on this incorrect effect size estimate). 
+
+One solution to the challenge is to conduct data simulation as part of the experimental design process. There are many ways to do this using R, and there are several packages on CRAN (the Comprehensive R Archive Network) that provide functions to simulate data for different kinds of designs.
 
 &nbsp;&nbsp;
 
@@ -26,6 +28,8 @@ In this part of the session we are going to look at the issues around covers exp
 </center>
 
 &nbsp;&nbsp;
+
+If you're interested in reading more about power, you might like to take a look at [this classic "Power Primer" paper](https://pubmed.ncbi.nlm.nih.gov/19565683/) by Jacob Cohen.
 
 ## Slides
 
