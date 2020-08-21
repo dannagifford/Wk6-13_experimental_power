@@ -46,4 +46,4 @@ You can download the slides in .odp format by clicking [here](../slides/experime
 
 ## Improve this Workshop
 
-If you spot any issues/errors in this workshop, you can raise an issue or create a pull request for [this repo](https://github.com/ajstewartlang/01_open_research_and_reproducibility). 
+If you spot any issues/errors in this workshop, you can raise an issue or create a pull request for [this repo](https://github.com/ajstewartlang/13_experimental_power). 
