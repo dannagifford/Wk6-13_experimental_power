@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Drake"
+title: "Experimental Power (And Why It Matters)"
 author: "Andrew Stewart, Email: drandrewjstewart@gmail.com, Twitter: @ajstewart_lang"
 date: ""
 output: 
@@ -21,7 +21,7 @@ In this part of the session we are going to look at the issues around covers exp
 
 <center>
 
-<iframe width="560" height="315" src="https://youtube.com/embed/" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/Vf0mMSvILiM" frameborder="0" allowfullscreen></iframe>
 
 </center>
 
@@ -34,7 +34,7 @@ You can download the slides in .odp format by clicking [here](../slides/experime
 
 <center>
 
-[![Link to Drake slides](../images/experimental_power.png){width=75%}](../slides/experimental_power.pdf)
+[![Link to Power slides](../images/experimental_power.png){width=75%}](../slides/experimental_power.pdf)
 
 </center>
 
