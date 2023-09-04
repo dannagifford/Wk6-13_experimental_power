@@ -1,1 +1,1 @@
-# 13_experimental_power
+# Workshop on Experimental Power
